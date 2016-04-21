@@ -9,7 +9,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/tsuna/gohbase"
+	"github.com/segmentio/gohbase"
 	"golang.org/x/net/context"
 )
 
